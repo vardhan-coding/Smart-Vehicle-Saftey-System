@@ -1,7 +1,7 @@
 """
 Smart Vehicle Safety System
 Author: Kogila Harsha Vardhan Varma
-Hardware: Arduino + Light, IR, Speed Sensors, GPS, Buzzer
+Simulation: Pure Python-based vehicle safety system 
 """
 
 import time
